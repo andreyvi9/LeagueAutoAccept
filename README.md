@@ -35,5 +35,3 @@ Ever wanted to go pee or grab something but you're already 10 minutes into the q
 - Feel free to suggest stuff
 - If it looks like I don't know what I'm doing that's probably because I don't know what I'm doing
 
-## License
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
