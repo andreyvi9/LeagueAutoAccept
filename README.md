@@ -1,4 +1,7 @@
-# Automatic queue accepter for League of Legends
+# Automatic queue accepter for League of Legends with message notification of queue
+
+Fork of existing AutoAcceptor
+
 Ever wanted to go pee or grab something but you're already 10 minutes into the queue? LeagueAutoAccept is a C# console app made using the LCU API to automatically accept queue and more!
 
 ## Screenshot
