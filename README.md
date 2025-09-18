@@ -13,7 +13,7 @@ Ever wanted to go pee or grab something but you're already 10 minutes into the q
 - It's basically a gray area but should be fine to use on servers other than Korea
 
 ## Download/How to run
-- Download the latest release from releases or from [here](https://github.com/sweetriverfish/LeagueAutoAccept/releases/latest/download/Leauge.Auto.Accept.exe)
+- Download the latest release from releases or from [here](https://github.com/andreyvi9/LeagueAutoAccept/releases/latest/download/Leauge.Auto.Accept.exe)
 - If the application fails to launch, chances are you don't have .NET 9 Runtime installed. You can find the latest version [here](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 ## Features
